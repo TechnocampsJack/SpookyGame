@@ -1,0 +1,41 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="20" scrolly="20" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="20" scrolly="20.000000000000227" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="setInterval" id="VwWWlok$%iiBc!H4[Mg8" x="210" y="350">
+      <value name="VALUE">
+        <shadow type="math_number" id="WzH_vfhIjgZ%_Zl%j8Qx">
+          <field name="NUM">5</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="createObject" id="[oU|;/-nw`^hhb#-PHp;">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" object_type="BOX"></mutation>
+          <field name="TYPE">BOX</field>
+          <field name="CAMERA_TYPE">PERSPECTIVE</field>
+          <field name="LIGHT_TYPE">AMBIENT</field>
+          <value name="NAME">
+            <shadow type="text" id="jMIa4M9r*:=TFlifzJ%,">
+              <field name="TEXT">myObject</field>
+            </shadow>
+          </value>
+          <value name="WIDTH">
+            <shadow type="math_number" id="ZWqQl8+,K;;_K^^C^?eX">
+              <field name="NUM">2</field>
+            </shadow>
+          </value>
+          <value name="HEIGHT">
+            <shadow type="math_number" id="w/f*kR4,L1H|5rfo|dXO">
+              <field name="NUM">2</field>
+            </shadow>
+          </value>
+          <value name="DEPTH">
+            <shadow type="math_number" id="V4m3Ul9J7ari$7zJwyS0">
+              <field name="NUM">2</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1518" viewport-y="28" viewport-w="1024" viewport-h="665" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>

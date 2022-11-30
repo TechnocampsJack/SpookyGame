@@ -1,0 +1,28 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="171.900000000001" scrolly="20.000000000000114" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="yxkWbE5WEne=G^H(8^#w" inline="false" x="290" y="210">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="]%Hc0sy3_j5ad)/$-o4R">
+          <field name="FIELDNAME">Turtle with Pen</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="hide" id="QF6F6`A3y^r!5H[lSf^V">
+          <value name="VALUE">
+            <shadow type="objectList" id="JrU,fY,3S@9(BWBZ}a*a">
+              <field name="FIELDNAME">Turtle with Pen</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1518" viewport-y="28" viewport-w="1024" viewport-h="665" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
